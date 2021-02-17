@@ -1,7 +1,7 @@
 # Bootstrap 5 + webpack Boilerplate
 
 A basic template for webpack-enabled web project using Bootstrap 5.  
-Original: https://github.com/homerchen19/bootstrap-webpack-jquery-boilerplate  
+Based on: https://github.com/homerchen19/bootstrap-webpack-jquery-boilerplate  
 License: MIT.
 
 ## Included
